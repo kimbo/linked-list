@@ -1,0 +1,6 @@
+AC_INIT([Linked List],[1.0])
+LT_INIT
+AM_INIT_AUTOMAKE([foreign])
+AC_PROG_CC
+AC_CONFIG_FILES(Makefile)
+AC_OUTPUT
