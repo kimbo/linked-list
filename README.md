@@ -1,6 +1,6 @@
 # linked-list
 
-Linked list implementation written in C. Documentation is currently [linkedlist.h](linkedlist.h).
+Linked list implementation written in C. Documentation is currently [linkedlist.h](linkedlist.h). You can also look in the [tests](test.c) script to see some examples.
 
 # Build and install
 
@@ -22,5 +22,4 @@ along with the linked list library when you run `make`. To run the tests, just r
 ./tests
 ```
 
-The output of the tests script isn't very useful right now. It's basically a bunch of function calls riddled with assert statments and a few
- `printf` calls to make things more visible.
+The output of the tests script isn't very useful right now. It's basically a bunch of function calls riddled with assert statments and a few `printf` calls to make things more visible.
